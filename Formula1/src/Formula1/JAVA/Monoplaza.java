@@ -1,4 +1,4 @@
-package Formula1;
+package Formula1.JAVA;
 
 public abstract class Monoplaza {
     protected String nombrePiloto;

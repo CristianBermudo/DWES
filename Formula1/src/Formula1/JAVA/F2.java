@@ -1,4 +1,4 @@
-package Formula1;
+package Formula1.JAVA;
 
 public class F2 extends Monoplaza{
     private boolean superLicencia;

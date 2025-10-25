@@ -1,4 +1,4 @@
-package Formula1;
+package Formula1.JAVA;
 
 public class FAcademy extends Monoplaza{
     private int potenciaMaxima;

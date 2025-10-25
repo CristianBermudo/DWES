@@ -1,4 +1,4 @@
-package Formula1;
+package Formula1.JAVA;
 
 public class F1 extends Monoplaza {
     private String nombrePatrocinador;
