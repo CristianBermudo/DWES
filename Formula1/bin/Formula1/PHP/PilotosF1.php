@@ -28,5 +28,3 @@ foreach($pilotos as $piloto){
 
 // NO DEVUELVE NADA PORQUE REQUIERE UN TOKEN QUE PARA PODER CONSEGUIR REQUIERE PAGO///
 
-//EXTRA: CREO QUE EL PROBLEMA ESQUE ESTA USANDO DENTRO DE UN SCRIPT PHP cuando php no se puede usar en js.////
-//Aunque por lo que comentaron varios usuarios puede tener mas errores porque falta informacion para saber cuales pueden ser los errores//
