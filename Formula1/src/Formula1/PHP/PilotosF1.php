@@ -26,5 +26,4 @@ foreach($pilotos as $piloto){
     }
 } 
 
-// NO DEVUELVE NADA PORQUE REQUIERE UN TOKEN QUE PARA PODER CONSEGUIR REQUIERE PAGO///
 
